@@ -1,0 +1,10 @@
+{
+  "name": "Remix MedAssist - Emergency Medical Assistance Portal",
+  "description": "Comprehensive emergency healthcare portal with instant SOS dispatch, nearby hospital triage, real-time ambulance tracking, certified first aid guides, and rapid emergency medical ID.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
